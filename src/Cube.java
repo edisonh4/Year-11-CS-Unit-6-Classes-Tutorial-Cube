@@ -1,7 +1,7 @@
 public class Cube {
     // properties
     private int side;
-
+    //constructor
     public Cube(){
         side=1;
     }
